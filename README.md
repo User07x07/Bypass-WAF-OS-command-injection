@@ -1,5 +1,6 @@
 # Bypass-WAF-OS-command-injection
-In todays Web Penetration Testing you must have good injection payloads to fasten your engagements
+In todays Web Penetration Testing you must have good injection payloads to fasten your engagements.<br>
+You can use this on BurpSuite.
 <br>
 <table border="1">
     <tr>
