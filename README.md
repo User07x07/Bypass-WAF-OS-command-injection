@@ -29,4 +29,6 @@ You can use this on BurpSuite. Method below can be use on Web Penetration Testin
 Another actual good reference:<br>
 1. https://medium.com/@themiddleblue/waf-evasion-techniques-718026d693d8<br>
 2. https://infosecwriteups.com/alibaba-cloud-waf-command-injection-bypass-via-wildcard-payload-in-all-1-462-built-in-rule-set-989b75db6e2f
+<br>
+If you like this, Please give a Star. Thanks
 
